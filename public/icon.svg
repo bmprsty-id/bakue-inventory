@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="128" fill="#FAF7F0" />
+  <!-- Cute stylized chocolate brown Bakue cookie typography icon -->
+  <g transform="translate(46, 170)">
+    <!-- B -->
+    <path d="M 30 140 C 15 140 0 125 0 100 L 0 40 C 0 15 15 0 35 0 L 65 0 C 85 0 100 12 100 32 C 100 45 92 56 80 62 C 96 68 105 80 105 102 C 105 125 90 140 68 140 Z M 38 34 L 38 52 L 60 52 C 68 52 72 46 72 43 C 72 38 68 34 60 34 Z M 38 84 L 38 106 L 62 106 C 70 106 75 101 75 95 C 75 89 70 84 62 84 Z" fill="#5C3317" />
+    
+    <!-- A with bite mark on top -->
+    <path d="M 148 140 L 118 140 L 140 26 C 144 14 154 5 170 5 C 178 5 186 10 192 18 L 220 140 L 188 140 L 182 110 L 154 110 Z M 160 84 L 176 84 L 168 44 Z" fill="#5C3317" />
+    <!-- Cookie bite scallops in A -->
+    <circle cx="152" cy="18" r="14" fill="#FAF7F0" />
+    <circle cx="170" cy="10" r="12" fill="#FAF7F0" />
+    <circle cx="186" cy="18" r="13" fill="#FAF7F0" />
+    <circle cx="168" cy="80" r="11" fill="#FAF7F0" />
+
+    <!-- K -->
+    <path d="M 235 140 L 235 0 L 268 0 L 268 55 L 298 0 L 336 0 L 292 70 L 340 140 L 302 140 L 268 85 L 268 140 Z" fill="#5C3317" />
+
+    <!-- U -->
+    <path d="M 350 0 L 382 0 L 382 85 C 382 105 392 114 406 114 C 420 114 430 105 430 85 L 430 0 L 462 0 L 462 85 C 462 125 438 142 406 142 C 374 142 350 125 350 85 Z" fill="#5C3317" />
+  </g>
+</svg>

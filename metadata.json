@@ -1,0 +1,6 @@
+{
+  "name": "BakeStock - Inventory Bahan Kue",
+  "description": "Aplikasi pencatatan, pengecekan, dan pengelolaan stok bahan kue mobile-first dan offline-first.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
